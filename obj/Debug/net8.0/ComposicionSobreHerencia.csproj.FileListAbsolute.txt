@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\ComposicionSobreHerencia\bin\Debug\net8.0\ComposicionSobreHerencia.exe
+C:\Users\gabri\source\repos\ComposicionSobreHerencia\bin\Debug\net8.0\ComposicionSobreHerencia.deps.json
+C:\Users\gabri\source\repos\ComposicionSobreHerencia\bin\Debug\net8.0\ComposicionSobreHerencia.runtimeconfig.json
+C:\Users\gabri\source\repos\ComposicionSobreHerencia\bin\Debug\net8.0\ComposicionSobreHerencia.dll
+C:\Users\gabri\source\repos\ComposicionSobreHerencia\bin\Debug\net8.0\ComposicionSobreHerencia.pdb
+C:\Users\gabri\source\repos\ComposicionSobreHerencia\obj\Debug\net8.0\ComposicionSobreHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\ComposicionSobreHerencia\obj\Debug\net8.0\ComposicionSobreHerencia.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\ComposicionSobreHerencia\obj\Debug\net8.0\ComposicionSobreHerencia.AssemblyInfo.cs
+C:\Users\gabri\source\repos\ComposicionSobreHerencia\obj\Debug\net8.0\ComposicionSobreHerencia.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ComposicionSobreHerencia\obj\Debug\net8.0\ComposicionSobreHerencia.dll
+C:\Users\gabri\source\repos\ComposicionSobreHerencia\obj\Debug\net8.0\refint\ComposicionSobreHerencia.dll
+C:\Users\gabri\source\repos\ComposicionSobreHerencia\obj\Debug\net8.0\ComposicionSobreHerencia.pdb
+C:\Users\gabri\source\repos\ComposicionSobreHerencia\obj\Debug\net8.0\ComposicionSobreHerencia.genruntimeconfig.cache
+C:\Users\gabri\source\repos\ComposicionSobreHerencia\obj\Debug\net8.0\ref\ComposicionSobreHerencia.dll

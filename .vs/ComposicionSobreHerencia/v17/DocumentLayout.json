@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\models\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|solutionrelative:models\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\interfaces\\idriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|solutionrelative:interfaces\\idriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\interfaces\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|solutionrelative:interfaces\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\engines\\combustionengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|solutionrelative:engines\\combustionengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|c:\\users\\gabri\\source\\repos\\composicionsobreherencia\\drivers\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|solutionrelative:drivers\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\drivers\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|solutionrelative:drivers\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\engines\\electricengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|solutionrelative:engines\\electricengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D18CCE-C6DC-4A4A-B938-830247EFBDE5}|ComposicionSobreHerencia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ElectricEngine.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Engines\\ElectricEngine.cs",
+              "RelativeDocumentMoniker": "Engines\\ElectricEngine.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Engines\\ElectricEngine.cs",
+              "RelativeToolTip": "Engines\\ElectricEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:34:53.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CombustionEngine.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Engines\\CombustionEngine.cs",
+              "RelativeDocumentMoniker": "Engines\\CombustionEngine.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Engines\\CombustionEngine.cs",
+              "RelativeToolTip": "Engines\\CombustionEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:33:31.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Drivers\\Human.cs",
+              "RelativeDocumentMoniker": "Drivers\\Human.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Drivers\\Human.cs",
+              "RelativeToolTip": "Drivers\\Human.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:33:12.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Drivers\\Robot.cs",
+              "RelativeDocumentMoniker": "Drivers\\Robot.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Drivers\\Robot.cs",
+              "RelativeToolTip": "Drivers\\Robot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:32:54.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Interfaces\\IEngine.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEngine.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Interfaces\\IEngine.cs",
+              "RelativeToolTip": "Interfaces\\IEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:32:42.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDriver.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Interfaces\\IDriver.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDriver.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Interfaces\\IDriver.cs",
+              "RelativeToolTip": "Interfaces\\IDriver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:31:53.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Models\\Transport.cs",
+              "RelativeDocumentMoniker": "Models\\Transport.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Models\\Transport.cs",
+              "RelativeToolTip": "Models\\Transport.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:31:27.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\ComposicionSobreHerencia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:28:45.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
